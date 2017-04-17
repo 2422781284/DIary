@@ -1,0 +1,19 @@
+.login_window .layui-layer-title{
+  background: transparent;
+  color:rgba(255, 255, 255, 0.71);
+}
+.login_window .layui-layer-btn{}
+.login_window .layui-layer-btn a{}
+.login_window .layui-layer-btn .layui-layer-btn1{}
+.alert .layui-layer-btn {
+  background-color: black;
+}
+.alert .layui-layer-content {
+  color: white;
+  background-color: #000000;
+}
+.alert .layui-layer-btn .layui-layer-btn0 {
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+}
